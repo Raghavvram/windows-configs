@@ -69,4 +69,4 @@ bleachbit_console.exe --preview system.*
 - **Avoid Cleaning Essential System Files:** Do not select options like "registry" unless you're experienced and understand the consequences.
 - **Backup Your Data:** It’s a good idea to back up important files before running any cleaning process.
 
-If you're looking for a fully clean but safe experience, start with the general commands above and explore additional cleaning options carefully using the `--list` command. Let me know if you need a detailed guide on customizing your cleanup!
+If you're looking for a fully clean but safe experience, start with the general commands above and explore additional cleaning options carefully using the `--list` command.
